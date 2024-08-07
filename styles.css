@@ -1,40 +1,45 @@
+.nav-link.active {
+  color: black;
+}
 .my-image {
-	margin-left: 20px;
+  margin-left: 20px;
 }
 
 .smaller-btn {
-	width: 120px;
-	max-width: 150px;
-}
-
-.social-icons {
-	display: flex;
-	margin-top: 20px;
+  width: 120px;
+  max-width: 150px;
 }
 
 .social-icons a {
-	margin: 0 10px;
-	color: #f0ffff;
-	font-size: 28px;
-	transition: color 0.3s ease;
+  transition: color 0.3s ease;
 }
 
 .social-icons a:hover .bi-facebook {
-	color: #3b5998;
+  color: #3b5998;
 }
 
 .social-icons a:hover .bi-instagram {
-	color: #e4405f;
+  color: #e4405f;
 }
 
 .social-icons a:hover .bi-twitter {
-	color: #1da1f2;
+  color: #1da1f2;
 }
 
 .social-icons a:hover .bi-youtube {
-	color: #ff0000;
+  color: #ff0000;
+}
+
+.social-icons a:hover .bi-linkedin {
+  color: #005582;
 }
 
 .footer-link {
-    cursor: pointer;
-    }
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
