@@ -1,6 +1,10 @@
-# Personal Homepage
+# Bootstrap 5 Personal Homepage 
 
 This is a mock personal homepage created with Bootstrap 5 for the 2024 CS50's Introduction to Computer Science Problem Set 8. It was created by following [Bootstrap 5 Crash Course](https://www.youtube.com/watch?v=4sosXZsdy-s&t=1466s) YouTube video.
+
+## Live Page
+
+[URL Link](https://hiralinda.github.io/bootstrap-5-homepage/)
 
 ## Features
 
@@ -50,6 +54,3 @@ This is a mock personal homepage created with Bootstrap 5 for the 2024 CS50's In
 
 All dependencies are loaded via CDN links in the HTML file.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
