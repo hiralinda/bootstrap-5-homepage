@@ -54,3 +54,20 @@ This is a mock personal homepage created with Bootstrap 5 for the 2024 CS50's In
 
 All dependencies are loaded via CDN links in the HTML file.
 
+## Future Improvements
+
+1. **Dynamic Content Loading**: Implement JavaScript to load content dynamically, reducing the need for separate HTML files for each page.
+
+2. **Form Functionality**: Add backend functionality to the newsletter signup and contact forms to actually process and store submitted data.
+
+3. **Accessibility Improvements**: Conduct an accessibility audit and improve keyboard navigation, screen reader compatibility, and color contrast ratios.
+
+4. **Performance Optimization**: Optimize images, minify CSS and JavaScript, and implement lazy loading for images and content to improve page load times.
+
+5. **SEO Enhancements**: Improve meta tags, implement structured data, and ensure proper semantic HTML usage for better search engine optimization.
+
+6. **Integration with a CMS**: Connect the site to a content management system to make updates easier for non-technical users.
+
+7. **Portfolio Showcase**: If relevant, add a dynamic portfolio section to showcase projects or work samples.
+
+8. **Analytics Integration**: Add Google Analytics or a similar tool to track user behavior and site performance.
